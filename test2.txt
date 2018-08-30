@@ -8,3 +8,5 @@
 4. git remote add origin https://github.com/yuanzizhen94/gitLearning.git
  
 5. git push -u origin master //把本地仓库的文件推送到远程仓库
+
+//更新文件
