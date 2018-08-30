@@ -1,0 +1,10 @@
+
+1. git init //初始化仓库
+
+2. git add .(文件name) //添加文件到本地仓库
+
+3. git commit -m "first commit" //添加文件描述信息
+
+4. git remote add origin https://github.com/yuanzizhen94/gitLearning.git
+ 
+5. git push -u origin master //把本地仓库的文件推送到远程仓库
